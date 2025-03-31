@@ -1,3 +1,3 @@
 # PortOpti
 
-Zipfile containing whole project and individual core files
+The zipfile containing whole project
